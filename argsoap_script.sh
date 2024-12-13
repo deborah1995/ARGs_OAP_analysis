@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --job-name="Davide mollo"
+#SBATCH --job-name="ARGs_OAP"
 #SBATCH --time=96:00:00
 #SBATCH --cpus-per-task=20
 #SBATCH --mem=50G
